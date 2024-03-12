@@ -1,0 +1,14 @@
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\TarefaB\obj\Debug\net7.0\TarefaB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\TarefaB\obj\Debug\net7.0\TarefaB.AssemblyInfoInputs.cache
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\TarefaB\obj\Debug\net7.0\TarefaB.AssemblyInfo.cs
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\TarefaB\obj\Debug\net7.0\TarefaB.csproj.CoreCompileInputs.cache
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\TarefaB\bin\Debug\net7.0\TarefaB.exe
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\TarefaB\bin\Debug\net7.0\TarefaB.deps.json
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\TarefaB\bin\Debug\net7.0\TarefaB.runtimeconfig.json
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\TarefaB\bin\Debug\net7.0\TarefaB.dll
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\TarefaB\bin\Debug\net7.0\TarefaB.pdb
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\TarefaB\obj\Debug\net7.0\TarefaB.dll
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\TarefaB\obj\Debug\net7.0\refint\TarefaB.dll
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\TarefaB\obj\Debug\net7.0\TarefaB.pdb
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\TarefaB\obj\Debug\net7.0\TarefaB.genruntimeconfig.cache
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\TarefaB\obj\Debug\net7.0\ref\TarefaB.dll
