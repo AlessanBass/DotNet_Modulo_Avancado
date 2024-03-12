@@ -1,1 +1,3 @@
-# DotNet_Modulo_Avancado
+# DotNet Módulo Avançado
+
+## Exercícios do dia: 12/03/2024
