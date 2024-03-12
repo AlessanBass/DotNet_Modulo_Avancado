@@ -1,0 +1,14 @@
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\Tarefas\bin\Debug\net7.0\Tarefas.exe
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\Tarefas\bin\Debug\net7.0\Tarefas.deps.json
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\Tarefas\bin\Debug\net7.0\Tarefas.runtimeconfig.json
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\Tarefas\bin\Debug\net7.0\Tarefas.dll
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\Tarefas\bin\Debug\net7.0\Tarefas.pdb
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\Tarefas\obj\Debug\net7.0\Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\Tarefas\obj\Debug\net7.0\Tarefas.AssemblyInfoInputs.cache
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\Tarefas\obj\Debug\net7.0\Tarefas.AssemblyInfo.cs
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\Tarefas\obj\Debug\net7.0\Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\Tarefas\obj\Debug\net7.0\Tarefas.dll
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\Tarefas\obj\Debug\net7.0\refint\Tarefas.dll
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\Tarefas\obj\Debug\net7.0\Tarefas.pdb
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\Tarefas\obj\Debug\net7.0\Tarefas.genruntimeconfig.cache
+C:\Users\aless\Desktop\dotnet_avancado\DotNet_Modulo_Avancado\Tarefas\obj\Debug\net7.0\ref\Tarefas.dll
